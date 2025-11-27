@@ -3,20 +3,18 @@
 **FULL STACK DEVELOPER SPECIALIZING IN PYTHON** 💻 
 
 
-
 Focused on the integration of web services, automation with Python, and artificial intelligence solutions applied to R&D and open data environments.
 
 
 ## Contact
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.colladogomezalvarez@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin?logo=Linkedin)](https://www.linkedin.com/in/daniel-collado-g%C3%B3mez-%C3%A1lvarez-813a77333/)
 
 
 
-## ⚡ Tecnologías más usadas
+## ⚡ Most used technologies
 
-### 🚀 Lenguajes
+### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
@@ -24,7 +22,7 @@ Focused on the integration of web services, automation with Python, and artifici
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Librerías & Frameworks 
+### 🧩 Libraries & Frameworks
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,7 +33,7 @@ Focused on the integration of web services, automation with Python, and artifici
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📘 Otras...
+### 📘 Others...
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -44,5 +42,5 @@ Focused on the integration of web services, automation with Python, and artifici
 ![MRTK](https://img.shields.io/badge/MRTK-512BD4?style=for-the-badge&color=%231C1E20)
 
 
-## 📈 Trabajando en...
+## 📈 Working on...
 ![](./profile-3d-contrib/profile-season-animate.svg)
