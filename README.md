@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hellow! My name is Daniel Collado
+# <img src="./images/sticker.png" width=10% align=right /> Hello! My name is Daniel Collado
 
 **FULL STACK DEVELOPER SPECIALIZING IN PYTHON** 💻 
 
