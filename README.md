@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hello! My name is Daniel Collado
+# Hello! My name is Daniel Collado
 
 **FULL STACK DEVELOPER SPECIALIZING IN PYTHON** 💻 
 
@@ -10,6 +10,7 @@ Focused on the integration of web services, automation with Python, and artifici
 ## Contact
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.colladogomezalvarez@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
