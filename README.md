@@ -44,13 +44,24 @@ Focused on the integration of web services, automation with Python, and artifici
 ![API](https://img.shields.io/badge/API-FFD43B?style=for-the-badge&logo=API&logoColor=306998)
 ![Pipelines](https://img.shields.io/badge/Pipelines-FFD43B?style=for-the-badge&logo=Pipelines&logoColor=306998)
 
+## 📂 Featured Projects
 
-## 📈 Working on...
+### 🔧 Python Mini MVP Series (LinkedIn)
+A collection of small, focused projects showcasing specific Python libraries through practical examples and minimal viable prototypes.
 
 [<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
-[<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
-[<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
 
+---
+
+## 🧪 Python Applied Projects
+Applied projects exploring real-world use cases, automation tools, and practical engineering solutions.
+
+📈 Coming soon...
+
+---
+
+## 📁 Other Projects
+Additional repositories, experiments, and tools that complement my technical portfolio.
 
 
 
