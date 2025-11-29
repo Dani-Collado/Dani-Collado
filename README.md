@@ -24,32 +24,25 @@ Focused on the integration of web services, automation with Python, and artifici
 ### 🧩 Python Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI1MDAiIHdpZHRoPSIxODc0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ijc2IDY0IDI5Ny4wMDYgNDcxIj48ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0zMjEgMjQyLjAxN3YxNzguMDE3bDI1Ljc1LS4yNjcgMjUuNzUtLjI2Ny4yNTMtMTc3Ljc1LjI1My0xNzcuNzVIMzIxek0xNTkgMTQ1LjVWMTk5aDUyVjkyaC01MnpNNzYgMzU3djE3OGg1MlYxNzlINzZ6bTE2NC0xMjQuMDE3VjI4N0gyOTIuMDE3bC0uMjU4LTUzLjc1LS4yNTktNTMuNzUtMjUuNzUtLjI2Ny0yNS43NS0uMjY3ek0xNTkgMzY1djU0aDUyVjMxMWgtNTJ6bTgxIDg4djU0aDUyVjM5OWgtNTJ6IiBmaWxsPSIjMGMwNDU0Ii8+PHBhdGggZD0iTTE1OSAyNTUuNVYyODFoNTJ2LTUxaC01MnptODEgODhWMzY5aDUydi01MWgtNTJ6IiBmaWxsPSIjZjM2ODQ4Ii8+PC9nPjwvc3ZnPg==")
-![Fast](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
+![Numpy](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Selennium](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Playwright](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 🛠️ Python Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-27338e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI1MDAiIHdpZHRoPSIyNTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTQgMTU0Ij48Y2lyY2xlIGN4PSI3NyIgY3k9Ijc3IiBmaWxsPSIjMDU5OThiIiByPSI3NyIvPjxwYXRoIGQ9Ik04MS4zNzUgMTguNjY3bC0zOC43NSA3MEg3Ny41bC0zLjg3NSA0Ni42NjYgMzguNzUtNzBINzcuNXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4)
-
-
-
-
+![FastAPI](https://img.shields.io/badge/FastAPI-27338e?style=for-the-badge&logo=My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTQgMTU0Ij48Y2lyY2xlIGN4PSI3NyIgY3k9Ijc3IiBmaWxsPSIjMDU5OThiIiByPSI3NyIvPjxwYXRoIGQ9Ik04MS4zNzUgMTguNjY3bC0zOC43NSA3MEg3Ny41bC0zLjg3NSA0Ni42NjYgMzguNzUtNzBINzcuNXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)
+![Crawlee](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Django](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Flask](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 📘 Others...
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&color=%232E5E82)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![MRTK](https://img.shields.io/badge/MRTK-512BD4?style=for-the-badge&color=%231C1E20)
+![BBDD](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&color=%232E5E82)
+![API](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![Pipelines](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 
 ## 📈 Working on...
