@@ -48,6 +48,9 @@ Focused on the integration of web services, automation with Python, and artifici
 ## 📈 Working on...
 
 [<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
+[<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
+[<img src="https://opengraph.githubassets.com/1/Dani-Collado/AI_Agent_Scratch_Python" width="450"/>](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
+
 
 
 
