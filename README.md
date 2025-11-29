@@ -46,4 +46,9 @@ Focused on the integration of web services, automation with Python, and artifici
 
 
 ## 📈 Working on...
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dani-Collado&repo=AI_Agent_Scratch_Python)](https://github.com/Dani-Collado/AI_Agent_Scratch_Python)
+
+
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
